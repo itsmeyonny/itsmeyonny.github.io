@@ -1,0 +1,30 @@
+<!doctype html> 
+    <head> 
+        <meta charset="UTF-8">
+        <title>
+            Week 2!
+        </title>
+        <script src="p5.min.js"></script>
+    </head>
+
+    <body>
+    <h1> <a href="https://www.myfortunecookie.co.uk">Open Your Fortune Cookie</a></h1>
+    
+    <br>
+        <a href="Lab 1">Lab 1</a>
+        <a href="Lab 2">Lab 2</a>
+        <a href="Lab 3">Lab 3</a>
+        <a href="Lab 4">Lab 4</a>
+        <a href="Lab 5">Lab 5</a>
+    <br>
+        <a href="Assignment2">Assignment2</a>
+        <a href="Assignment3">Assignment3</a>
+        <a href="Assignment4">Assignment4</a>
+        <a href="Assignment5">Final Project</a>
+        <script src="sketch.js"></script>
+    <br></br>
+
+    <img src="https://i.pinimg.com/736x/a3/06/03/a30603f3c3f6c212c93af9986fea5336.jpg" alt="yay" width="30%">
+    
+    </body>
+</html>
